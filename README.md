@@ -12,9 +12,9 @@ const fivem = require("fivem-api");
 fivem.getServerInfo("185.223.30.29:30120").then((server) => console.log(server.players.length))
 ```
 Comment l'utiliser : 
-```
-fivem.getServerInfo(ipServer)
+```javascript
+Promise fivem.getServerInfo(ipServer)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzg0NDQyLDEzNjY3ODMxMTNdfQ==
+eyJoaXN0b3J5IjpbLTMyNjg0MDg4OCwxMzY2NzgzMTEzXX0=
 -->
