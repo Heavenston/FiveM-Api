@@ -22,10 +22,11 @@ Redonne une `Promise` qui elle redonne un objet :
 {
 "players": [{
 	"endpoint"; "127.0.0.1",
-	"id": 
+	"id": id, // L'id serveur du joueur
+	identifiers: ["steam", "license"], // Les identifiers 
 }]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI1NDQ5ODMsMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbLTgwNjA5MzAwOCwxMzY2NzgzMTEzXX0=
 -->
