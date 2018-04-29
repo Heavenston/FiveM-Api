@@ -23,27 +23,27 @@ Redonne une `Promise` qui elle redonne un objet :
 	"players": [{
 		"endpoint"; string,
 		"id": int, // L'id serveur du joueur
-		identifiers: array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
-		name: string, // Le pseudo du joueur
-		ping: int, // Le ping :grinning:
+		"identifiers": array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
+		"name": string, // Le pseudo du joueur
+		"ping": int, // Le ping :grinning:
 	}],
 	"infos": {
-		enhancedHostSupport: boolean,
-		resources: array, // Toutes les resouces start sur le serveur
-		server: string, // Nom de la version du FXServer utiliser
-		vars: { // Toutes les variables (ou presque) définie dans server.cfg
-			sv_enhancedHostSupport: boolean,
-			sv_lan: boolean,
-			sv_licenseKeyToken: string,
-			sv_maxClients: int,
-			sv_scriptHookAllowed: boolean,
-			sv_hostname: string,
+		"enhancedHostSupport": boolean,
+		"resources": array, // Toutes les resouces start sur le serveur
+		"server": string, // Nom de la version du FXServer utiliser
+		"vars": { // Toutes les variables (ou presque) définie dans server.cfg
+			"sv_enhancedHostSupport": boolean,
+			"sv_lan": boolean,
+			"sv_licenseKeyToken": string,
+			"sv_maxClients": int,
+			"sv_scriptHookAllowed": boolean,
+			"sv_hostname": string,
 		},
-		version: int, // Sans doute le nombre corres
+		"version": int, // Sans doute le nombre correspondant a la version utiliser de FXServer
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NTQ4MjUwLDI0NTkyODEwMiwxMzY2Nz
-gzMTEzXX0=
+eyJoaXN0b3J5IjpbLTc5NTk1MjgzOSwyNDU5MjgxMDIsMTM2Nj
+c4MzExM119
 -->
