@@ -30,10 +30,10 @@ Redonne une `Promise` qui elle redonne un objet :
 	"infos": {
 		enhancedHostSupport: boolean,
 		resources: array, // Toutes les resouces start sur le serveur
-		serv
+		server: 
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDY3MjgxMywxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbMjQ1OTI4MTAyLDEzNjY3ODMxMTNdfQ==
 -->
