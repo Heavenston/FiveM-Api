@@ -28,8 +28,10 @@ Redonne une `Promise` qui elle redonne un objet :
 		ping: int, // Le ping :grinning:
 	}],
 	"infos": {
+		
+	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODQ0Njg2MSwxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbMzgzMzY5ODcyLDEzNjY3ODMxMTNdfQ==
 -->
