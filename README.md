@@ -21,12 +21,13 @@ Redonne une `Promise` qui elle redonne un objet :
 ```json
 {
 "players": [{
-	"endpoint"; "127.0.0.1",
-	"id": id, // L'id serveur du joueur
-	identifiers: ["steam", "license"], // Les identifiers 
+	"endpoint"; string,
+	"id": int, // L'id serveur du joueur
+	identifiers: array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
+	name: pseudo
 }]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjA5MzAwOCwxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbLTE3MTg2OTA5MTAsMTM2Njc4MzExM119
 -->
