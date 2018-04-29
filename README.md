@@ -20,15 +20,16 @@ ipServer -> Ip du serveur
 Redonne une `Promise` qui elle redonne un objet :
 ```json
 {
-"players": [{
-	"endpoint"; string,
-	"id": int, // L'id serveur du joueur
-	identifiers: array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
-	name: string, // Le pseudo du joueur
-	ping: int // Le ping :grinning:
-}]
+	"players": [{
+		"endpoint"; string,
+		"id": int, // L'id serveur du joueur
+		identifiers: array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
+		name: string, // Le pseudo du joueur
+		ping: int, // Le ping :grinning:
+	}],
+	"infos": {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjQ4ODY5LDEzNjY3ODMxMTNdfQ==
+eyJoaXN0b3J5IjpbMTA0ODQ0Njg2MSwxMzY2NzgzMTEzXX0=
 -->
