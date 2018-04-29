@@ -35,12 +35,15 @@ Redonne une `Promise` qui elle redonne un objet :
 			sv_enhancedHostSupport: boolean,
 			sv_lan: boolean,
 			sv_licenseKeyToken: string,
-			sv_maxClients: 
-		}
+			sv_maxClients: int,
+			sv_scriptHookAllowed: boolean,
+			sv_hostname: string,
+		},
+		version: int, // Sans doute le nombre corres
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjE1MDA0LDI0NTkyODEwMiwxMzY2Nz
+eyJoaXN0b3J5IjpbNjU2NTQ4MjUwLDI0NTkyODEwMiwxMzY2Nz
 gzMTEzXX0=
 -->
