@@ -31,13 +31,13 @@ Redonne une `Promise` qui elle redonne un objet :
 		enhancedHostSupport: boolean,
 		resources: array, // Toutes les resouces start sur le serveur
 		server: string, // Nom de la version du FXServer utiliser
-		vars: {
-			sv_enhancedHostSupport: 
+		vars: { // Toutes les variables (ou presque) définie dans server.
+			sv_enhancedHostSupport: boolean
 		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTkwOTMzNywyNDU5MjgxMDIsMTM2Nj
+eyJoaXN0b3J5IjpbMTgxOTY5NDgzOSwyNDU5MjgxMDIsMTM2Nj
 c4MzExM119
 -->
