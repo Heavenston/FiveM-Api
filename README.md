@@ -29,6 +29,7 @@ Redonne une `Promise` qui elle redonne un objet :
 	}],
 	"infos": {
 		"enhancedHostSupport": boolean,
+		"icon": string, // L'icon du serveur en Base64
 		"resources": array, // Toutes les resouces start sur le serveur
 		"server": string, // Nom de la version du FXServer utiliser
 		"vars": { // Toutes les variables (ou presque) définie dans server.cfg
@@ -43,7 +44,9 @@ Redonne une `Promise` qui elle redonne un objet :
 	}
 }
 ```
+
+Si vous avez des idées pour 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTk1MjgzOSwyNDU5MjgxMDIsMTM2Nj
-c4MzExM119
+eyJoaXN0b3J5IjpbLTE5MzY0MTg0MDcsMjQ1OTI4MTAyLDEzNj
+Y3ODMxMTNdfQ==
 -->
