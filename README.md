@@ -11,8 +11,10 @@ Ex, pour afficher le nombre de joueurs sur un serveur :
 const fivem = require("fivem-api");
 fivem.getServerInfo("185.223.30.29:30120").then((server) => console.log(server.players.length))
 ```
-
-la fo
+Comment l'utiliser : 
+```
+fivem.getServerInfo(ipServer)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MDE2MTM0LDEzNjY3ODMxMTNdfQ==
+eyJoaXN0b3J5IjpbMTYzNzg0NDQyLDEzNjY3ODMxMTNdfQ==
 -->
