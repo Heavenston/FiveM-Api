@@ -28,10 +28,12 @@ Redonne une `Promise` qui elle redonne un objet :
 		ping: int, // Le ping :grinning:
 	}],
 	"infos": {
-		
+		enhancedHostSupport: boolean,
+		resources: array, // Toutes les resouces start sur le serveur
+		serv
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMzY5ODcyLDEzNjY3ODMxMTNdfQ==
+eyJoaXN0b3J5IjpbLTI1NDY3MjgxMywxMzY2NzgzMTEzXX0=
 -->
