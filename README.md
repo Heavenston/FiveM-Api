@@ -9,8 +9,8 @@ npm i fivem-api
 Ex, pour récupérer le nombre de joueurs sur un serveur : 
 ```javascript
 const fivem = require("fivem-api");
-
+fivem.getServerInfo("")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTQ2NDg1MywxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbLTE4MTIxMjE2MTAsMTM2Njc4MzExM119
 -->
