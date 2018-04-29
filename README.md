@@ -25,7 +25,7 @@ Redonne une `Promise` qui elle redonne un objet :
 		"id": int, // L'id serveur du joueur
 		"identifiers": array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
 		"name": string, // Le pseudo du joueur
-		"ping": int, // Le ping :grinning:
+		"ping": int, // Le ping
 	}],
 	"infos": {
 		"enhancedHostSupport": boolean,
@@ -47,6 +47,6 @@ Redonne une `Promise` qui elle redonne un objet :
 
 Si vous avez des idées de fonctions envoyé les 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUxNzU1MTEsMjAyNDQ4MDE5MywyND
-U5MjgxMDIsMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbLTE5NDM1MDk1NjcsLTE0ODUxNzU1MTEsMj
+AyNDQ4MDE5MywyNDU5MjgxMDIsMTM2Njc4MzExM119
 -->
