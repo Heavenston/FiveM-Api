@@ -24,10 +24,11 @@ Redonne une `Promise` qui elle redonne un objet :
 	"endpoint"; string,
 	"id": int, // L'id serveur du joueur
 	identifiers: array, // Les identifiers du joueur (lles mêmes que dans les resources FiveM)
-	name: pseudo
+	name: string, // Le pseudo du joueur
+	ping: int // Le ping :grinning:
 }]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg2OTA5MTAsMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbODkwNjQ4ODY5LDEzNjY3ODMxMTNdfQ==
 -->
