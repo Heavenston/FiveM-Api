@@ -1,7 +1,9 @@
 # FiveM-Api
-A nodeJs package who help you to interact with the little fiveM api
+C'est une api pour intéragir avec le petite api FiveM
 
-#### Docs
+#### How to use
+
+This is ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbLTc3MjExMjg3MSwxMzY2NzgzMTEzXX0=
 -->
