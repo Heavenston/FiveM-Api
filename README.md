@@ -6,11 +6,13 @@ C'est une api pour intéragir avec le petite api FiveM
 npm i fivem-api
 ```
 **Pour l'utiliser :**
-Ex, pour récupérer le nombre de joueurs sur un serveur : 
+Ex, pour afficher le nombre de joueurs sur un serveur : 
 ```javascript
 const fivem = require("fivem-api");
 fivem.getServerInfo("185.223.30.29:30120").then((server) => console.log(server.players.length))
 ```
+
+la fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU2NDE4NTksMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbNjk2MDE2MTM0LDEzNjY3ODMxMTNdfQ==
 -->
