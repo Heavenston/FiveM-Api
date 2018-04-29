@@ -45,8 +45,8 @@ Redonne une `Promise` qui elle redonne un objet :
 }
 ```
 
-Si vous avez des idées de fonctions envoyé les 
+Si vous avez des idées de fonctions envoyez les sur le github ou par email ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM1MDk1NjcsLTE0ODUxNzU1MTEsMj
-AyNDQ4MDE5MywyNDU5MjgxMDIsMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbODMxODMzMTQzLC0xNDg1MTc1NTExLDIwMj
+Q0ODAxOTMsMjQ1OTI4MTAyLDEzNjY3ODMxMTNdfQ==
 -->
