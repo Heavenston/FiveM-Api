@@ -30,10 +30,14 @@ Redonne une `Promise` qui elle redonne un objet :
 	"infos": {
 		enhancedHostSupport: boolean,
 		resources: array, // Toutes les resouces start sur le serveur
-		server: 
+		server: string, // Nom de la version du FXServer utiliser
+		vars: {
+			sv_enhancedHostSupport: 
+		}
 	}
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1OTI4MTAyLDEzNjY3ODMxMTNdfQ==
+eyJoaXN0b3J5IjpbMjAyOTkwOTMzNywyNDU5MjgxMDIsMTM2Nj
+c4MzExM119
 -->
