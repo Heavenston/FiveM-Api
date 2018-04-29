@@ -18,7 +18,7 @@ fivem.getServerInfo(ipServer)
 ipServer -> Ip du serveur
 
 Redonne une `Promise` qui elle redonne un objet :
-```json
+```
 {
 	"players": [{
 		"endpoint"; string,
@@ -47,6 +47,6 @@ Redonne une `Promise` qui elle redonne un objet :
 
 Si vous avez des idées de fonctions envoyé les 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDQ4MDE5MywyNDU5MjgxMDIsMTM2Nj
-c4MzExM119
+eyJoaXN0b3J5IjpbLTE0ODUxNzU1MTEsMjAyNDQ4MDE5MywyND
+U5MjgxMDIsMTM2Njc4MzExM119
 -->
