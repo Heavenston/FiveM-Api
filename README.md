@@ -17,7 +17,14 @@ fivem.getServerInfo(ipServer)
 ```
 ipServer -> Ip du serveur
 
-Redonne une `Promise` 
+Redonne une `Promise` qui elle redonne un objet :
+```json
+{
+"players": [{
+	
+}]
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjcyNjgzMiwxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbLTE4MDM5NTIyOTksMTM2Njc4MzExM119
 -->
