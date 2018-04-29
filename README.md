@@ -21,10 +21,11 @@ Redonne une `Promise` qui elle redonne un objet :
 ```json
 {
 "players": [{
-	
+	"endpoint"; "127.0.0.1",
+	"id": 
 }]
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM5NTIyOTksMTM2Njc4MzExM119
+eyJoaXN0b3J5IjpbLTE3MTI1NDQ5ODMsMTM2Njc4MzExM119
 -->
