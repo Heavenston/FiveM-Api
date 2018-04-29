@@ -5,7 +5,12 @@ C'est une api pour intéragir avec le petite api FiveM
 ```
 npm i fivem-api
 ```
-**Pour **
+**Pour l'utiliser :**
+Ex, pour récupérer le nombre de joueurs sur un serveur : 
+```javascript
+const fivem = require("fivem-api");
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzQ3NzgyNSwxMzY2NzgzMTEzXX0=
+eyJoaXN0b3J5IjpbLTM0NTQ2NDg1MywxMzY2NzgzMTEzXX0=
 -->
