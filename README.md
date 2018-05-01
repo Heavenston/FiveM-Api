@@ -6,7 +6,6 @@ Small package in order to interact with FiveM API
 
 ```
 npm i fivem-api
-
 ```
 
 **How-to use :** 
@@ -26,7 +25,7 @@ fivem.getServerInfo(ipServer:port)
 (default port is 30120)
 
 It returns a Promise with this object as parameter:
-```json
+```
 {
     "players": [{
         "endpoint"; string,
