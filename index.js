@@ -2,7 +2,7 @@ const request = require('request');
 
 function getAllServers() {
   return new Promise(function(sendSuccess, sendError) {
-    request('http://servers-live.fivem.net/api/servers/', function (error, response, body) {
+    request('http://servers-live.fivem.net/api/servers/single', function (error, response, body) {
       if (error) {
         sendError(error);
         return;
